@@ -4,7 +4,7 @@ Try the live development version of app: [2 Weeks Ready - Dev](https://sasquatch
 
 ## Project List
 
-Each project landing page (linked below) contains instructions on setting up environments and running the application..
+Each project landing page (linked below) contains instructions on setting up environments and running the application...
 
 1. [2wr-app](2wr-app/README.md) : User interface front-end. Progressive web application. Primary technologies, JavaScript(Vue.js and Vuetify).
 
